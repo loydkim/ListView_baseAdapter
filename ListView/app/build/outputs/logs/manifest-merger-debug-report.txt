@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/youngsickim/.android/build-cache/d58cea9bc65b4e720dc6404156c61029b1e37ba9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/youngsickim/.android/build-cache/c39f18e481df832ff65ad384ba59b785388c4c29/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/youngsickim/.android/build-cache/17075a28eba84f1cc479655416ffc4d5959c2d3b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/youngsickim/.android/build-cache/4f19f6654056f788d34e613bed57fa596e410eee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/youngsickim/.android/build-cache/67ed6408d067e5f26703e527287c4a8480c33313/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/youngsickim/.android/build-cache/bda145b53e37a98e9df2191a2fd331b483940d42/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/youngsickim/.android/build-cache/64b1de74d357b94df292e64e2fce4eb56da46771/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/youngsickim/.android/build-cache/4d4029c420a679e73c818b90df51a206c95a2c6a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/youngsickim/.android/build-cache/5506103ce9d1f4e86fce0d0829c1c33e7a6477e0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/youngsickim/.android/build-cache/8a61aee70b0e788fa78d882d6225383733552d04/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.canada.youngsickim.listview.MainActivity
+ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/youngsickim/.android/build-cache/d58cea9bc65b4e720dc6404156c61029b1e37ba9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/youngsickim/.android/build-cache/c39f18e481df832ff65ad384ba59b785388c4c29/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/youngsickim/.android/build-cache/17075a28eba84f1cc479655416ffc4d5959c2d3b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/youngsickim/.android/build-cache/4f19f6654056f788d34e613bed57fa596e410eee/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/youngsickim/.android/build-cache/67ed6408d067e5f26703e527287c4a8480c33313/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/youngsickim/.android/build-cache/bda145b53e37a98e9df2191a2fd331b483940d42/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/youngsickim/.android/build-cache/64b1de74d357b94df292e64e2fce4eb56da46771/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/youngsickim/.android/build-cache/4d4029c420a679e73c818b90df51a206c95a2c6a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/youngsickim/.android/build-cache/5506103ce9d1f4e86fce0d0829c1c33e7a6477e0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/youngsickim/.android/build-cache/8a61aee70b0e788fa78d882d6225383733552d04/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youngsickim/.android/build-cache/d58cea9bc65b4e720dc6404156c61029b1e37ba9/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/youngsickim/Downloads/ListView/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youngsickim/.android/build-cache/d58cea9bc65b4e720dc6404156c61029b1e37ba9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/youngsickim/.android/build-cache/c39f18e481df832ff65ad384ba59b785388c4c29/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/youngsickim/.android/build-cache/17075a28eba84f1cc479655416ffc4d5959c2d3b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/youngsickim/.android/build-cache/4f19f6654056f788d34e613bed57fa596e410eee/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/youngsickim/.android/build-cache/67ed6408d067e5f26703e527287c4a8480c33313/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/youngsickim/.android/build-cache/bda145b53e37a98e9df2191a2fd331b483940d42/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/youngsickim/.android/build-cache/64b1de74d357b94df292e64e2fce4eb56da46771/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/youngsickim/.android/build-cache/4d4029c420a679e73c818b90df51a206c95a2c6a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/youngsickim/.android/build-cache/5506103ce9d1f4e86fce0d0829c1c33e7a6477e0/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youngsickim/.android/build-cache/d58cea9bc65b4e720dc6404156c61029b1e37ba9/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/youngsickim/.android/build-cache/d58cea9bc65b4e720dc6404156c61029b1e37ba9/output/AndroidManifest.xml:26:9-47
