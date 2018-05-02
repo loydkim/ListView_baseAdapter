@@ -12,6 +12,6 @@ Develop environment.
 You can watch how to make it in my youtube channel and blog !
 
 - Youtube link : https://youtu.be/Z9v3K7rN89w
-- Blog post link : http://devloydkim.blogspot.ca/2017/05/android-make-listview-using-baseadapter.html
+- Blog post link : https://loydioslab.blogspot.ca/2017/05/android-make-listview-using-baseadapter.html
 
 Thank you :)
